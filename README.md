@@ -28,3 +28,4 @@ Link to pages with `route('name')` and to files with `asset('assets/...')`.
 Products, prices, cart, checkout, login/register, orders and reviews are still static sample
 markup from the HTML prototype. The forms in `FormController` validate and show a confirmation
 but don't email or save anything yet (see the TODOs).
+# shuki-craft-test
